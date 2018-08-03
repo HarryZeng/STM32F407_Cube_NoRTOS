@@ -2669,42 +2669,42 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   Object Name
 
-       156         26          0          0         72       1777   adc.o
-       280         36          0          4        136       2574   can.o
-       676         76          0         52        221       4936   car.o
-       194         24          0          0          0       1885   contact.o
-       468         68          0        116         24       4747   encoder.o
-       508         32          0          0          0       1339   gpio.o
-       136         26          0          0         84       1777   i2c.o
-       326         34          0          0          0       2580   main.o
-       480         16          0         96          0       2029   odometry.o
-       176         16          0         12          0       1451   pid.o
-       156         26          0          0        132       1797   sdio.o
-       168         24          0          0         88       1809   spi.o
-        36          8        392          0       1024        856   startup_stm32f407xx.o
-       148         22          0          4          0       4739   stm32f4xx_hal.o
-       716         24          0          0          0       2879   stm32f4xx_hal_adc.o
-       328          0          0          0          0       1515   stm32f4xx_hal_can.o
-       228         14          0          0          0      32213   stm32f4xx_hal_cortex.o
-        36          0          0          0          0       1295   stm32f4xx_hal_dma.o
-       450         44          0          0          0       2969   stm32f4xx_hal_gpio.o
-       264         10          0          0          0       2943   stm32f4xx_hal_i2c.o
-        88          0          0          0          0        574   stm32f4xx_hal_msp.o
-      1388         76          0          0          0       5832   stm32f4xx_hal_rcc.o
-      1492          4          0          0          0       8412   stm32f4xx_hal_sd.o
-       128          0          0          0          0       1283   stm32f4xx_hal_spi.o
-      1342         88          0          0          0      13172   stm32f4xx_hal_tim.o
-        84          0          0          0          0       2562   stm32f4xx_hal_tim_ex.o
-      1518         14          0          0          0       8612   stm32f4xx_hal_uart.o
-        66         18          0          0          0       6114   stm32f4xx_it.o
-      1318         36          0          0          0      17608   stm32f4xx_ll_sdmmc.o
-        84         18         24          4          0     734839   system_stm32f4xx.o
-       536         72          0          0        240       4463   tim.o
-       616         92          0          0        320       4616   usart.o
-         2          0          0          0          0        505   usb_otg.o
+       156         26          0          0         72       1665   adc.o
+       280         36          0          4        136       2434   can.o
+       676         76          0         52        221       4768   car.o
+       194         24          0          0          0       1801   contact.o
+       468         68          0        116         24       4551   encoder.o
+       508         32          0          0          0       1283   gpio.o
+       136         26          0          0         84       1665   i2c.o
+       326         34          0          0          0       2468   main.o
+       480         16          0         96          0       1973   odometry.o
+       176         16          0         12          0       1367   pid.o
+       156         26          0          0        132       1685   sdio.o
+       168         24          0          0         88       1697   spi.o
+        36          8        392          0       1024        828   startup_stm32f407xx.o
+       148         22          0          4          0       4543   stm32f4xx_hal.o
+       716         24          0          0          0       2767   stm32f4xx_hal_adc.o
+       328          0          0          0          0       1459   stm32f4xx_hal_can.o
+       228         14          0          0          0      31961   stm32f4xx_hal_cortex.o
+        36          0          0          0          0       1239   stm32f4xx_hal_dma.o
+       450         44          0          0          0       2857   stm32f4xx_hal_gpio.o
+       264         10          0          0          0       2887   stm32f4xx_hal_i2c.o
+        88          0          0          0          0        546   stm32f4xx_hal_msp.o
+      1388         76          0          0          0       5636   stm32f4xx_hal_rcc.o
+      1492          4          0          0          0       8132   stm32f4xx_hal_sd.o
+       128          0          0          0          0       1227   stm32f4xx_hal_spi.o
+      1342         88          0          0          0      12668   stm32f4xx_hal_tim.o
+        84          0          0          0          0       2450   stm32f4xx_hal_tim_ex.o
+      1518         14          0          0          0       8276   stm32f4xx_hal_uart.o
+        66         18          0          0          0       5778   stm32f4xx_it.o
+      1318         36          0          0          0      16964   stm32f4xx_ll_sdmmc.o
+        84         18         24          4          0     734335   system_stm32f4xx.o
+       536         72          0          0        240       4239   tim.o
+       616         92          0          0        320       4392   usart.o
+         2          0          0          0          0        477   usb_otg.o
 
     ----------------------------------------------------------------------
-     14612        944        452        288       2348     886702   Object Totals
+     14612        944        452        288       2348     881018   Object Totals
          0          0         32          0          0          0   (incl. Generated)
         20          0          4          0          7          0   (incl. Padding)
 
@@ -2771,8 +2771,8 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   
 
-     18868       1234        740        292       2348     874766   Grand Totals
-     18868       1234        740        292       2348     874766   ELF Image Totals
+     18868       1234        740        292       2348     869082   Grand Totals
+     18868       1234        740        292       2348     869082   ELF Image Totals
      18868       1234        740        292          0          0   ROM Totals
 
 ==============================================================================

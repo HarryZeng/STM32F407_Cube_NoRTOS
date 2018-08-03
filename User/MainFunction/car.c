@@ -257,7 +257,7 @@ void CarMainFunction(void)
             main_sta&=0xF7;
 		}
 		
-		/*串口1接收函数*/
+		/*串口3接收函数*/
 		if(USART_RX_STA&0x8000)
 		{			
             //接收左右轮速度
